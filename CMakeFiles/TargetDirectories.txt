@@ -1,0 +1,3 @@
+/Users/eliasdutra/Google Drive/Meu Drive/Elias/UFPB/20230111115/P2/LP1/projeto2/CMakeFiles/FruitNinja.dir
+/Users/eliasdutra/Google Drive/Meu Drive/Elias/UFPB/20230111115/P2/LP1/projeto2/CMakeFiles/edit_cache.dir
+/Users/eliasdutra/Google Drive/Meu Drive/Elias/UFPB/20230111115/P2/LP1/projeto2/CMakeFiles/rebuild_cache.dir
