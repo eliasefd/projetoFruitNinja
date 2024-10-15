@@ -128,6 +128,8 @@ FruitNinja: /opt/homebrew/lib/libopencv_wechat_qrcode.4.10.0.dylib
 FruitNinja: /opt/homebrew/lib/libopencv_xfeatures2d.4.10.0.dylib
 FruitNinja: /opt/homebrew/lib/libopencv_xobjdetect.4.10.0.dylib
 FruitNinja: /opt/homebrew/lib/libopencv_xphoto.4.10.0.dylib
+FruitNinja: /opt/homebrew/lib/libsfml-audio.2.6.1.dylib
+FruitNinja: /opt/homebrew/lib/libsfml-graphics.2.6.1.dylib
 FruitNinja: /opt/homebrew/lib/libopencv_shape.4.10.0.dylib
 FruitNinja: /opt/homebrew/lib/libopencv_highgui.4.10.0.dylib
 FruitNinja: /opt/homebrew/lib/libopencv_datasets.4.10.0.dylib
@@ -148,6 +150,8 @@ FruitNinja: /opt/homebrew/lib/libopencv_flann.4.10.0.dylib
 FruitNinja: /opt/homebrew/lib/libopencv_photo.4.10.0.dylib
 FruitNinja: /opt/homebrew/lib/libopencv_imgproc.4.10.0.dylib
 FruitNinja: /opt/homebrew/lib/libopencv_core.4.10.0.dylib
+FruitNinja: /opt/homebrew/lib/libsfml-window.2.6.1.dylib
+FruitNinja: /opt/homebrew/lib/libsfml-system.2.6.1.dylib
 FruitNinja: CMakeFiles/FruitNinja.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="/Users/eliasdutra/Google Drive/Meu Drive/Elias/UFPB/20230111115/P2/LP1/projeto2/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable FruitNinja"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/FruitNinja.dir/link.txt --verbose=$(VERBOSE)

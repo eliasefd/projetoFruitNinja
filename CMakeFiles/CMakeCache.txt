@@ -225,12 +225,6 @@ FruitNinjaClone_SOURCE_DIR:STATIC=/Users/eliasdutra/Google Drive/Meu Drive/Elias
 //The directory containing a CMake configuration file for OpenCV.
 OpenCV_DIR:PATH=/opt/homebrew/lib/cmake/opencv4
 
-//The directory containing a CMake configuration file for SFML.
-SFML_DIR:PATH=/opt/homebrew/lib/cmake/SFML
-
-//Path to a file.
-SFML_DOC_DIR:PATH=/opt/homebrew/share/doc/SFML
-
 
 ########################
 # INTERNAL cache entries
